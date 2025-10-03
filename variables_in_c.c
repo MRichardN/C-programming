@@ -11,6 +11,7 @@ int main (){
 	char name[] = {"Agnes"}; //%s, Array
 	int age = 10;  //%d
 	float pi = 3.142;  //%f
+	//declare profit
 	double profit = 10000.10; //%lf
 	
 	
@@ -21,4 +22,5 @@ int main (){
 	printf("The value of pi is %.2f \n ", pi);
 	printf("The profit is Ksh. %.4lf \n" , profit);
 	return 0;  //execution successful
+
 }
